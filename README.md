@@ -1,4 +1,4 @@
-### HOWDY :metal: :metal:
+### HOWDY :metal: :eyeglasses: :metal:
 - :mortar_board: I'm a Full-Stack Software Engineer
 - :microscope: I'm currently learning Python
 - :zap: Tech Stack | React, JavaScript, HTML, CSS, SQL, NodeJS
