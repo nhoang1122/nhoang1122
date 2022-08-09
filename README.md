@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I'm a Full-Stack Software Engineer
+- :school: I'm currently learning Python
+- :zap: Tech Stack | React, JavaScript, HTML, CSS, SQL, NodeJS
+- :purple_heart: Valorant, Basketball, Food, and Dogs
+
 
 <!--
 **nhoang1122/nhoang1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
