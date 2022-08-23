@@ -2,7 +2,7 @@
 - :mortar_board: I'm a Full-Stack Software Engineer
 - :microscope: I'm currently learning Python
 - :zap: Tech Stack | React, JavaScript, HTML, CSS, SQL, NodeJS
-- :purple_heart: Valorant, Basketball, Food, and Dogs
+- :purple_heart: Valorant, Basketball, Cooking, and Dogs 
 
 
 <!--
