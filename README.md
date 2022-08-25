@@ -1,6 +1,6 @@
 ### HOWDY :metal: :eyeglasses: :metal:
 - :mortar_board: I'm a Full-Stack Software Engineer
-- :microscope: I'm currently learning Python
+- :microscope: I'm currently learning Python & C#
 - :zap: Tech Stack | React, JavaScript, HTML, CSS, SQL, NodeJS
 - :purple_heart: Valorant, Basketball, Cooking, and Dogs 
 
